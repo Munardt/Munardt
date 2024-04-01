@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=999999&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+à+Munardt;Tenho+21+anos;Moro+no+Brasil;Estudo+e+programo+em;Csharp+TS+e+.Net;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo+à+Munardt;Tenho+21+anos;Moro+no+Brasil;Estudo+e+programo+em;Csharp,+TS+e+.Net;)](https://git.io/typing-svg)
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="Munardt-CSharp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -9,6 +9,7 @@
   <img align="center" alt="Munardt-CSS3" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Munardt-JS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Munardt-Angular" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="center" alt="Munardt-Typescript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Munardt-Bootstrap" height="57" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />    
 </div>
 
