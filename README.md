@@ -7,8 +7,7 @@
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!+;Me+chamo+Gabriel;Tenho+22+anos+e+moro+em+Blumenau+-+SC,+Brasil;Estudo+e+programo+em+Csharp,+TS+e+.Net;Programador+Angular+com+TS,+e+Csharp+com+.NET;Obrigado+por+sua+atenção!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome!+;Pls+call+me+Gabriel;22+yo+and+alive+in+Blumenau+-+SC,+Brazil;Learning+and+coding+in+Csharp,+TS+and+.Net;Developer+with+Angular+w/+TS,+and+Csharp+w/+.NET;Tks+for+ur+attention!)](https://git.io/typing-svg)
-
+ 
 <div style="display: inline_block" align="center">
   <img align="center" alt="Munardt-CSharp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Adriano-dotnet" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />  
