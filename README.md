@@ -20,16 +20,21 @@
 > 📌 *Os dados abaixo são atualizados automaticamente via GitHub Actions.*
 
 📦 **Commits em repositórios privados/públicos:**  
-`🟢 Atualizando...`
+      `189 commits`
 
 🔀 **Pull Requests Feitos:**  
-`🟢 Atualizando...`
+      `136 PRs`
 
 📝 **Issues Criadas:**  
-`🟢 Atualizando...`
+      `91 issues`
 
 🔗 **Repositórios em que mais contribuo:**  
-`🟢 Atualizando...`
+      - `METQ-Devs/Metq-Angular`
+- `Munardt/ci-cd-test`
+- `Munardt/md`
+- `METQ-Devs/Metq-API`
+- `Munardt/GOT`
+      
 
 ---
 
