@@ -24,7 +24,7 @@ jobs:
 
       - name: Rodar o script para atualizar README
         env:
-          GITHUB_TOKEN: ${{ secrets.TOKEN_ACCESS }}
+          TOKEN_ACCESS: ${{ secrets.TOKEN_ACCESS }}
         run: node update-readme.js
 
       - name: Commit e push se houver mudanças
