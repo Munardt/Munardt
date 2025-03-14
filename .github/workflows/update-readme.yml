@@ -1,4 +1,4 @@
-name: Atualizar README com Contribuições
+name: Atualizar README diariamente
 
 on:
   schedule:
@@ -31,10 +31,9 @@ jobs:
 
       - name: Commit e push se houver mudanças
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub-Actions[MD]"
+          git config --global user.email "Github-Actions[MD]@users.noreply.github.com"
           git add README.md
           git commit -m "Atualizando README com novas contribuições" || exit 0
           git remote set-url origin https://x-access-token:${{ secrets.TOKEN_ACCESS }}@github.com/Munardt/md.git
           git push
-
