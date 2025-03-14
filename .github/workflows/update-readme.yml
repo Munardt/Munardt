@@ -2,7 +2,7 @@ name: Atualizar README com Contribuições
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa todo dia à meia-noite
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.TOKEN_ACCESS }}
 
       - name: Configurar Node.js
         uses: actions/setup-node@v3
