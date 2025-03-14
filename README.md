@@ -1,22 +1,47 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238dd4&height=120&section=header"/>
+# 🚀 **METQ | Front End Developer**  
+> *"Dinamicidade e adaptabilidade em cada linha de código."*
+> 
+> *"Em busca do inimaginável e, aprendendo a cada char inserido em código..."*
 
- <div syle=inline>
-  <a href="https://github.com/Munardt">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Munardt&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munardt&layout=compact&langs_count=7&theme=tokyonight"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0FF0FC&center=true&vCenter=true&width=435&lines=Developer+Front+End;Building+the+Future+with+Code;Tech+%7C+Innovation+%7C+Creativity" alt="Typing SVG" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo!+;Me+chamo+Gabriel;Tenho+22+anos+e+moro+em+Blumenau+-+SC,+Brasil;Estudo+e+programo+em+Csharp,+TS+e+.Net;Programador+Angular+com+TS,+e+Csharp+com+.NET;Obrigado+por+sua+atenção!)](https://git.io/typing-svg)
- 
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Munardt-CSharp" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Adriano-dotnet" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" />  
-  <img align="center" alt="Munardt-HTML5" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Munardt-CSS3" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Munardt-JS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Munardt-Angular" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img align="center" alt="Munardt-Typescript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Munardt-Bootstrap" height="57" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />    
+---
+
+## 📊 **Status dos Commits**
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Munardt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=238dd4&height=120&section=footer"/>
+---
+
+## 🔍 **Minhas Contribuições**
+> 📌 *Os dados abaixo são atualizados automaticamente via GitHub Actions.*
+
+📦 **Commits em repositórios privados/públicos:**  
+`🟢 Atualizando...`
+
+🔀 **Pull Requests Feitos:**  
+`🟢 Atualizando...`
+
+📝 **Issues Criadas:**  
+`🟢 Atualizando...`
+
+🔗 **Repositórios em que mais contribuo:**  
+`🟢 Atualizando...`
+
+---
+
+## 🛠 **Tecnologias e Linguagens**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,angular,nodejs,cs,dotnet,azure,docker,git,linux,vscode,visualstudio" />
+</div>
+
+---
+
+## 📡 **Conecte-se Comigo**
+<div align="center">
+  <a href="https://www.linkedin.com/in/munardt/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/munardt" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
