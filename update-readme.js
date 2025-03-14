@@ -28,18 +28,30 @@ const query = `
 `;
 
 async function fetchGitHubData() {
-  const response = await fetch("https://api.github.com/graphql", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Authorization: `Bearer ${GITHUB_TOKEN}`,
-    },
-    body: JSON.stringify({ query }),
-  });
+  try {
+    const response = await fetch("https://api.github.com/graphql", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: `Bearer ${GITHUB_TOKEN}`,
+      },
+      body: JSON.stringify({ query }),
+    });
 
-  const data = await response.json();
-  return data.data.viewer.contributionsCollection;
+    const data = await response.json();
+    
+    if (!data || !data.data) {
+      console.error("❌ Erro na resposta da API:", JSON.stringify(data, null, 2));
+      throw new Error("API retornou dados inválidos!");
+    }
+
+    return data.data.viewer.contributionsCollection;
+  } catch (error) {
+    console.error("❌ Erro ao buscar dados do GitHub:", error);
+    process.exit(1);
+  }
 }
+
 
 async function updateReadme() {
   const stats = await fetchGitHubData();
