@@ -2,7 +2,7 @@ const fs = require("fs");
 const fetch = require("node-fetch");
 
 const GITHUB_USERNAME = "Munardt";
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const GITHUB_TOKEN = process.env.TOKEN_ACCESS;
 
 const query = `
 {
