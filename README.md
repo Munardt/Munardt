@@ -13,9 +13,9 @@
 ## 📊 **Status dos Commits**
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=munardt&theme=tokyonight&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munardt&show_icons=true&theme=tokyonight&rank_icon=github&locale=pt-br)
+
 </div>
 
 ---
