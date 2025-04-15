@@ -38,7 +38,7 @@
 ## 🛠 **Tecnologias e Linguagens**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,angular,nodejs,cs,dotnet,azure,docker,git,linux,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=ts,angular,nodejs,azure,docker,git,linux,vscode,visualstudio" />
 </div>
 
 ---
