@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Munardt&show_icons=true&theme=tokyonight&rank_icon=github&locale=pt-br)
+![Munardt's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Munardt&theme=dark&hide_border=false)
 
 </div>
 
@@ -28,7 +28,7 @@
       `251 commits`
 
 🔀 **Pull Requests Feitos:**  
-      `198 PRs`
+      `193 PRs`
 
 📝 **Issues Criadas:**  
  `91 issues`
@@ -38,7 +38,7 @@
 ## 🛠 **Tecnologias e Linguagens**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,angular,nodejs,azure,docker,git,linux,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=ts,angular,react,nodejs,azure,docker,git,linux,vscode,visualstudio" />
 </div>
 
 ---
@@ -47,5 +47,5 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/munardt/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/munardt" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:munardt@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=#EA4335"/></a>
 </div>
