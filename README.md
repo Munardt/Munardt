@@ -5,7 +5,7 @@
 > _"Em busca do inimaginável e, aprendendo a cada char inserido em código..."_
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6099F7&center=true&vCenter=true&width=435&lines=Developer+Front+End;Building+the+Future+with+Code;Tech+%7C+Innovation+%7C+Creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=e1892d&center=true&vCenter=true&width=435&lines=Developer+Front+End;Building+the+Future+with+Code;Tech+%7C+Innovation+%7C+Creativity" alt="Typing SVG" />
 </div>
 
 ---
