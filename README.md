@@ -25,10 +25,10 @@
 > 📌 _Os dados abaixo são atualizados automaticamente via GitHub Actions._
 
 📦 **Commits em repositórios privados/públicos:**  
-      `305 commits`
+      `303 commits`
 
 🔀 **Pull Requests Feitos:**  
-      `196 PRs`
+      `194 PRs`
 
 📝 **Issues Criadas:**  
  `91 issues`
