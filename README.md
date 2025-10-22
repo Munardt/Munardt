@@ -28,7 +28,7 @@
       `258 commits`
 
 🔀 **Pull Requests Feitos:**  
-      `175 PRs`
+      `176 PRs`
 
 📝 **Issues Criadas:**  
  `91 issues`
