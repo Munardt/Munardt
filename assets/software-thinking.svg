@@ -1,0 +1,74 @@
+<svg width="980" height="330" viewBox="0 0 980 330" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Como eu penso software: Produto, Engenharia e Evolução">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="30" x2="940" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.48" stop-color="#0D2C5C"/>
+      <stop offset="1" stop-color="#00958B"/>
+    </linearGradient>
+    <linearGradient id="stroke" x1="60" y1="48" x2="920" y2="282" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12F7D1"/>
+      <stop offset="1" stop-color="#75FABD" stop-opacity="0.35"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="260" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(790 74) rotate(144) scale(330 135)">
+      <stop stop-color="#12F7D1" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="#12F7D1" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#D0DDEE" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect x="28" y="24" width="924" height="282" rx="34" fill="url(#bg)"/>
+  <rect x="29" y="25" width="922" height="280" rx="33" stroke="url(#stroke)" stroke-width="2"/>
+  <rect x="28" y="24" width="924" height="282" rx="34" fill="url(#grid)"/>
+  <rect x="28" y="24" width="924" height="282" rx="34" fill="url(#glow)">
+    <animateTransform attributeName="transform" type="translate" values="-10 0;14 8;-10 0" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="490" y="72" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="800">Como eu penso software</text>
+  <text x="490" y="98" text-anchor="middle" fill="#D0DDEE" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">PRODUTO • ENGENHARIA • EVOLUÇÃO</text>
+
+  <g>
+    <rect x="68" y="132" width="260" height="124" rx="20" fill="url(#card)" fill-opacity="0.92"/>
+    <rect x="69" y="133" width="258" height="122" rx="19" stroke="#12F7D1" stroke-opacity="0.52" stroke-width="1.5"/>
+    <circle cx="104" cy="168" r="16" fill="#12F7D1" fill-opacity="0.12" stroke="#12F7D1" stroke-opacity="0.7"/>
+    <path d="M98 168H110M104 162V174" stroke="#12F7D1" stroke-width="2.2" stroke-linecap="round"/>
+    <text x="132" y="164" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Produto</text>
+    <text x="92" y="201" fill="#D0DDEE" font-family="Segoe UI, Arial, sans-serif" font-size="14">Entender o problema</text>
+    <text x="92" y="222" fill="#D0DDEE" font-family="Segoe UI, Arial, sans-serif" font-size="14">antes da tela e reduzir</text>
+    <text x="92" y="243" fill="#D0DDEE" font-family="Segoe UI, Arial, sans-serif" font-size="14">atrito com intenção.</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="5.5s" repeatCount="indefinite"/>
+  </g>
+
+  <g>
+    <rect x="360" y="132" width="260" height="124" rx="20" fill="url(#card)" fill-opacity="0.92"/>
+    <rect x="361" y="133" width="258" height="122" rx="19" stroke="#12F7D1" stroke-opacity="0.52" stroke-width="1.5"/>
+    <circle cx="396" cy="168" r="16" fill="#12F7D1" fill-opacity="0.12" stroke="#12F7D1" stroke-opacity="0.7"/>
+    <path d="M389 170L395 176L405 160" stroke="#12F7D1" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="424" y="164" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Engenharia</text>
+    <text x="384" y="201" fill="#D0DDEE" font-family="Segoe UI, Arial, sans-serif" font-size="14">Componentes consistentes,</text>
+    <text x="384" y="222" fill="#D0DDEE" font-family="Segoe UI, Arial, sans-serif" font-size="14">contratos claros e</text>
+    <text x="384" y="243" fill="#D0DDEE" font-family="Segoe UI, Arial, sans-serif" font-size="14">manutenção sem drama.</text>
+    <animateTransform attributeName="transform" type="translate" values="0 -3;0 2;0 -3" dur="6.2s" repeatCount="indefinite"/>
+  </g>
+
+  <g>
+    <rect x="652" y="132" width="260" height="124" rx="20" fill="url(#card)" fill-opacity="0.92"/>
+    <rect x="653" y="133" width="258" height="122" rx="19" stroke="#12F7D1" stroke-opacity="0.52" stroke-width="1.5"/>
+    <circle cx="688" cy="168" r="16" fill="#12F7D1" fill-opacity="0.12" stroke="#12F7D1" stroke-opacity="0.7"/>
+    <path d="M681 169C683 163 688 160 693 160C698 160 701 164 701 168C701 175 692 177 687 177H681" stroke="#12F7D1" stroke-width="2.2" stroke-linecap="round"/>
+    <text x="716" y="164" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="800">Evolução</text>
+    <text x="676" y="201" fill="#D0DDEE" font-family="Segoe UI, Arial, sans-serif" font-size="14">Aprender rápido,</text>
+    <text x="676" y="222" fill="#D0DDEE" font-family="Segoe UI, Arial, sans-serif" font-size="14">documentar decisões e</text>
+    <text x="676" y="243" fill="#D0DDEE" font-family="Segoe UI, Arial, sans-serif" font-size="14">melhorar com contexto.</text>
+    <animateTransform attributeName="transform" type="translate" values="0 2;0 -4;0 2" dur="5.9s" repeatCount="indefinite"/>
+  </g>
+
+  <path d="M328 194H360M620 194H652" stroke="#12F7D1" stroke-opacity="0.44" stroke-width="1.6" stroke-dasharray="5 8">
+    <animate attributeName="stroke-dashoffset" values="0;-26" dur="2.8s" repeatCount="indefinite"/>
+  </path>
+</svg>

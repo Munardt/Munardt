@@ -1,0 +1,29 @@
+<svg width="230" height="44" viewBox="0 0 230 44" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Email munardt@hotmail.com">
+  <defs>
+    <linearGradient id="email-bg" x1="0" y1="0" x2="230" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.58" stop-color="#12384F"/>
+      <stop offset="1" stop-color="#00C89B"/>
+    </linearGradient>
+    <linearGradient id="email-stroke" x1="8" y1="4" x2="222" y2="40" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#75FABD"/>
+      <stop offset="1" stop-color="#12F7D1" stop-opacity="0.35"/>
+    </linearGradient>
+    <filter id="email-glow" x="-10" y="-10" width="250" height="64" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation="4"/>
+      <feComposite in2="hardAlpha" operator="out"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0.0705882 0 0 0 0 0.968627 0 0 0 0 0.819608 0 0 0 0.28 0"/>
+      <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_2_1"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_2_1" result="shape"/>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="228" height="42" rx="14" fill="url(#email-bg)" filter="url(#email-glow)"/>
+  <rect x="1" y="1" width="228" height="42" rx="14" stroke="url(#email-stroke)" stroke-width="1.4"/>
+  <rect x="13" y="13" width="22" height="22" rx="7" fill="#12F7D1" fill-opacity="0.14" stroke="#12F7D1" stroke-opacity="0.45"/>
+  <path d="M18.4 17.8H29.6C30.48 17.8 31.2 18.52 31.2 19.4V27.2C31.2 28.08 30.48 28.8 29.6 28.8H18.4C17.52 28.8 16.8 28.08 16.8 27.2V19.4C16.8 18.52 17.52 17.8 18.4 17.8ZM18.55 19.42L24 23.23L29.45 19.42H18.55ZM29.6 27.18V21.15L24.45 24.75C24.18 24.94 23.82 24.94 23.55 24.75L18.4 21.15V27.18H29.6Z" fill="#12F7D1"/>
+  <text x="47" y="19" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.6">EMAIL</text>
+  <text x="47" y="32" fill="#D0DDEE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="500">munardt@hotmail.com</text>
+</svg>
