@@ -3,12 +3,8 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/munardt/">
-    <img src="./assets/linkedin.svg" alt="LinkedIn - Gabriel Mundt" />
-  </a>
-  <a href="mailto:munardt@hotmail.com">
-    <img src="./assets/email.svg" alt="Email - munardt@hotmail.com" />
-  </a>
+  <a href="https://linkedin.com/in/munardt/"><img src="./assets/linkedin.svg" alt="LinkedIn - Gabriel Mundt" /></a><img width="8" src="./assets/spacer.svg" alt="" />
+  <a href="mailto:munardt@hotmail.com"><img src="./assets/email.svg" alt="Email - munardt@hotmail.com" /></a>
 </div>
 
 <br />
@@ -47,7 +43,16 @@ Gosto de transformar regras de negócio complexas em interfaces claras, componen
   <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=Munardt&bg_color=0D1117&color=D0DDEE&line=12F7D1&point=00C89B&area=true&area_color=00958B&hide_border=true&height=260" alt="Contribution activity graph" />
 </div>
 
+## Commit arcade
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Munardt/Munardt/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Munardt/Munardt/output/github-contribution-grid-snake.svg" />
+    <img width="720" src="https://raw.githubusercontent.com/Munardt/Munardt/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating GitHub contributions" />
+  </picture>
+</div>
+
 <div align="center">
   <img width="720" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:12F7D1,55:00958B,100:0D2C5C" alt="Footer" />
 </div>
-
